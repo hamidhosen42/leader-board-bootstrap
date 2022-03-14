@@ -1,1 +1,1 @@
-### [leader-board-bootstrap](https://hamidhosen42.github.io/leader-board-bootstrap/)
+### [leader-board-bootstrap](https://leader-board-bootstrap-website.netlify.app/)
